@@ -97,7 +97,7 @@
   "certificates": [
     {
       "name": "Full Stack Developer Nanodegree",
-      "date": "2020-03-01",
+      "date": "2020",
       "issuer": "Udacity",
       "url": "https://www.udacity.com/certificate/HTGQNDNF"
     }
@@ -116,7 +116,7 @@
   ],
   "recommendations": [
     {
-      "name": "James Chege",
+      "name": "James Chege (linkedin)",
       "reference": "I recommend Omar as an outstanding Software Developer in Javascript/typescript, integrations and DevOps."
     }
   ]

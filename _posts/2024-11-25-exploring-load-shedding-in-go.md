@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building a Load-Shedding System in Go. Prioritizing Tasks Under Heavy Load
-date: 2024-11-25 12:00:00
+date: 2024-11-23 12:00:00
 description: Learn how to build a load-shedding system in Go to prioritize critical tasks under heavy load. This guide simulates real-world scenarios, like handling video playback and analytics, using task queues, priority-based logic, and worker pools to keep systems responsive. Perfect for exploring backend resilience techniques!
 tags: distributed-systems
 categories: backend

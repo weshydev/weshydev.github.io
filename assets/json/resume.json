@@ -6,6 +6,7 @@
       "url": "https://metacorp.agency",
       "startDate": "2022-02-01",
       "endDate": "2023-02-30",
+      "summary": "Dubai, United Arab Emirates - Full-time - On-site",
       "highlights": [
           "Developed and optimized MERN stack applications and RESTful APIs.",
           "Led the integration of React/Next.js with blockchain systems (Ethereum, Solana) for Web3 communication.",
@@ -21,7 +22,7 @@
       "url": "https://waared.sa",
       "startDate": "2023-03-01",
       "endDate": "2025-03-20",
-      "summary": "",
+      "summary": "Riyadh, Saudi Arabia - Full-time - On-site",
       "highlights": [
           "Led the seamless migration of logistics systems across servers, maintaining zero downtime and full data integrity.",
           "Integrated logistics APIs (DHL, FedEx, Aramex, Saudi Post), which improved shipment tracking processes by 25%, streamlining customer operations.",
@@ -37,11 +38,12 @@
       "url": "https://www.redseaglobal.com",
       "startDate": "2024-10-01",
       "endDate": "Present",
-      "summary": "",
+      "summary": "Umluj, Tabuk, Saudi Arabia - Contract - Remote",
       "highlights": [
-          "Designed and implemented Java-based Backend microservices, enabling real-time IoT data processing and enhancing system scalability.",
-          "Developed a middleware Java-based Backend for processing camera data, enabling advanced AI-driven analytics.",
-          "Integrated Sky Quality Meters, Air Quality Meters, and other IoT sensors collecting real-time data and transmitting it to the Cumulocity IoT platform for centralized monitoring."
+          "Designed and implemented Java-based microservices for real-time IoT data processing, improving system scalability.",
+          "Developed a middleware solution for processing camera data, enabling AI-driven analytics.",
+          "Integrated Sky Quality Meters, Air Quality Meters, and other IoT sensors, transmitting real-time data to the Cumulocity IoT platform for centralized monitoring.",
+          "Developed a system for collecting data from water buoys and transmitting it to the AI platform for analysis."
       ]
     }
   ],

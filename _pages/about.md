@@ -15,10 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I’m a backend software engineer with over 3 years of experience making sure systems work smoothly in industries like FinTech and Logistics. I enjoy building strong backend solutions that handle real-world challenges.
+I am a software engineer with over 3 year of experience in **backend** development, **blockchain**, **integration**, and **DevOps**. Focused on designing and optimizing high-performance, scalable, and reliable systems. My work spans the domains of **logistics**, **IoT**, and **Web3**.
 
-Though I’ve tried frontend development, I’m happiest working on the backend, solving tough problems. DevOps? Been there. Linux? My playground. I’m always learning, breaking things (on purpose), and finding better ways to fix them.
-
-Feel free to reach out for collaboration or inquiries at [omarelweshy@gmail.com](mailto:omarelweshy@gmail.com). You can explore my work on [GitHub](https://github.com/omarelweshy), connect with me on [LinkedIn](https://www.linkedin.com/in/omarelweshy), and check out my humble answers on [Stack Overflow](https://stackoverflow.com/users/9917795/omar-elweshy).
-
-P.S. If you like memes, you can follow me on [X](https://x.com/omarelweshy) and share your favorites with me, let’s have some fun.
+For collaboration or inquiries, feel free to reach out at [omarelweshy@gmail.com](mailto:omarelweshy@gmail.com). You can also explore my work on [GitHub](https://github.com/omarelweshy), connect with me on [LinkedIn](https://www.linkedin.com/in/omarelweshy), check out my humble answers on [Stack Overflow](https://stackoverflow.com/users/9917795/omar-elweshy), or stay updated on [X](https://x.com/omarelweshy).

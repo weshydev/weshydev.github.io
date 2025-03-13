@@ -1,23 +1,8 @@
 {
-  "info": {
-    "name": "Omar Elweshy",
-    "Title": "Software Engineer",
-    "image": "",
-    "email": "omarelweshy@gmail.com",
-    "summary": "Backend-focused Software Engineer with 3+ years of experience delivering scalable solutions in fintech, blockchain, and web development. Expert in full-stack development, system optimization, and DevOps, with a strong track record of building robust backend systems, driving automation, and integrating complex APIs.",
-    "location": {
-      "address": "Riyadh",
-      "postalCode": "",
-      "city": "Riyadh",
-      "countryCode": "SA",
-      "region": "RUH"
-    },
-    "profiles": []
-  },
   "work": [
     {
       "name": "MetaCorp Agency",
-      "position": "Software Engineer",
+      "position": "Full-Stack & DevOps Engineer",
       "url": "https://metacorp.agency",
       "startDate": "2022-02-01",
       "endDate": "2023-02-30",
@@ -32,10 +17,10 @@
     },
     {
       "name": "Waared",
-      "position": "Software Engineer",
+      "position": "Software Backend Engineer",
       "url": "https://waared.sa",
       "startDate": "2023-03-01",
-      "endDate": "Present",
+      "endDate": "2025-03-20",
       "summary": "",
       "highlights": [
           "Led the seamless migration of logistics systems across servers, maintaining zero downtime and full data integrity.",
@@ -44,6 +29,19 @@
           "Automated the invoicing system, reducing manual workloads by 40% and improving financial accuracy.",
           "Implemented database backup procedures to ensure data security and quick recovery.",
           "Tech stack: Django, PostgreSQL, Nginx, Celery, RabbitMQ, Docker, Jenkins, and Google APIs."
+      ]
+    },
+    {
+      "name": "Red Sea Global",
+      "position": "Software Integration Engineer",
+      "url": "https://www.redseaglobal.com",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+          "Designed and implemented Java-based Backend microservices, enabling real-time IoT data processing and enhancing system scalability.",
+          "Developed a middleware Java-based Backend for processing camera data, enabling advanced AI-driven analytics.",
+          "Integrated Sky Quality Meters, Air Quality Meters, and other IoT sensors collecting real-time data and transmitting it to the Cumulocity IoT platform for centralized monitoring."
       ]
     }
   ],
@@ -71,7 +69,7 @@
   ],
   "volunteer": [
     {
-      "organization": "IEEE",
+      "organization": "IEEE KSU",
       "location": "Kafr El-Shiekh, Egypt",
       "position": "VP Web Development section & Back-End Developer",
       "url": "https://ieee.org.eg/kafrelsheikh",

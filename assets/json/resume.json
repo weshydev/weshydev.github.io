@@ -8,10 +8,10 @@
       "endDate": "2023-02-30",
       "summary": "Dubai, United Arab Emirates - Full-time - On-site",
       "highlights": [
-          "Developed and optimized MERN stack applications and RESTful APIs.",
+          "Built and optimized Backend systems for high-traffic Web3 applications using Node.js, MongoDB, and GraphQL.",
           "Led the integration of React/Next.js with blockchain systems (Ethereum, Solana) for Web3 communication.",
           "Collaborated with frontend team for seamless integration.",
-          "Managed AWS deployments, setting up CI/CD pipelines that reduced deployment time by 50%.",
+          "Engineered CI/CD pipelines for AWS-hosted Backend services, reducing deployment times by 50%.",
           "Designed and deployed smart contracts for secure and efficient interactions with blockchain networks.",
           "Tech stack: React.js, Next.js, Node.js, MongoDB, Docker, Jenkins, Solidity, GraphQL, AWS."
       ]
@@ -25,10 +25,11 @@
       "summary": "Riyadh, Saudi Arabia - Full-time - On-site",
       "highlights": [
           "Led the seamless migration of logistics systems across servers, maintaining zero downtime and full data integrity.",
-          "Integrated logistics APIs (DHL, FedEx, Aramex, Saudi Post), which improved shipment tracking processes by 25%, streamlining customer operations.",
-          "Implemented a Celery & RabbitMQ-based messaging queue for asynchronous email and notifications, increasing system reliability.",
-          "Automated the invoicing system, reducing manual workloads by 40% and improving financial accuracy.",
-          "Implemented database backup procedures to ensure data security and quick recovery.",
+          "Designed and implemented RESTful APIs for logistics platforms using Django, enhancing shipment tracking by 25%.",
+          "Designed and implemented a Celery and Redis-based messaging queue, improving system reliability and reducing email notification delays by 30%.",
+          "Automated invoicing workflows, reducing manual workloads by 40% and cutting errors by 95%.",
+          "Implemented PostgreSQL backup systems, ensuring rapid recovery and 99.9% data uptime.",
+          "Handled escalations from Customer Success, resolving complex technical issues and reducing customer-reported incidents",
           "Tech stack: Django, PostgreSQL, Nginx, Celery, RabbitMQ, Docker, Jenkins, and Google APIs."
       ]
     },
@@ -37,7 +38,7 @@
       "position": "Software Integration Engineer",
       "url": "https://www.redseaglobal.com",
       "startDate": "2024-10-01",
-      "endDate": "Present",
+      "endDate": "2025-03-20",
       "summary": "Umluj, Tabuk, Saudi Arabia - Contract - Remote",
       "highlights": [
           "Designed and implemented Java-based microservices for real-time IoT data processing, improving system scalability.",
@@ -45,18 +46,29 @@
           "Integrated Sky Quality Meters, Air Quality Meters, and other IoT sensors, transmitting real-time data to the Cumulocity IoT platform for centralized monitoring.",
           "Developed a system for collecting data from water buoys and transmitting it to the AI platform for analysis."
       ]
+    },
+     {
+      "name": "Foodics",
+      "position": "Backend Software Engineer",
+      "url": "https://foodics.com",
+      "startDate": "2025-03-23",
+      "endDate": "Present",
+      "summary": "Riyadh, Saudi Arabia - Full-time - On-site",
+      "highlights": [
+      
+      ]
     }
   ],
   "skills": [
     {
       "name": "Languages",
       "level": "Master",
-      "keywords": ["Python", "TypeScript/JavaScript", "Golang", "SQL (Postgres)", "Java"]
+      "keywords": ["C#", "PHP", "Python", "TypeScript/JavaScript", "Golang", "SQL", "Java"]
     },
     {
       "name": "Backend",
       "level": "Master",
-      "keywords": ["Django", "Node.js", "Express", "Flask", "Spring Boot", "Gin"]
+      "keywords": [".NET Core" , "Laravel", "Django", "Node.js", "Express", "Flask", "Spring Boot", "Gin"]
     },
     {
       "name": "Frontend",
@@ -66,7 +78,7 @@
     {
       "name": "DevOps",
       "level": "Master",
-      "keywords": ["Docker", "Kubernetes", "Jenkins", "Ansible", "Nginx", "AWS"]
+      "keywords": ["Docker", "Kubernetes", "Jenkins", "Ansible", "Nginx", "AWS", "ArgoCD"]
     }
   ],
   "volunteer": [
@@ -111,12 +123,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "recommendations": [
-    {
-      "name": "James Chege (linkedin)",
-      "reference": "I recommend Omar as an outstanding Software Developer in Javascript/typescript, integrations and DevOps."
     }
   ]
 }
